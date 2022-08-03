@@ -1,0 +1,178 @@
+/* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    position: relative;
+
+    height: 1539px;
+    background-color: white;
+}
+
+li {
+    margin-left: 739px;
+    margin-top: 44px;
+    display: inline-block;
+
+}
+
+.logo {
+    margin-top: 37px;
+    margin-left: 100px;
+}
+
+.today {
+    margin-left: 119px;
+    margin-top: 272px;
+    height: 24px;
+    max-width: 174px;
+    line-height: 24px;
+    font-size: 18px;
+    color: black;
+    font-style: normal;
+}
+
+.container1 {
+    width: 343px;
+    height: 532px;
+    margin-top: 396px;
+    margin-left: 102px;
+    background-color: #a0898bb2;
+    display: inline-block;
+
+}
+
+.container2 {
+    width: 343px;
+    height: 532px;
+    margin-top: 396px;
+    margin-left: 539px;
+    background-color: #a0898bb2;
+    display: inline-block;
+
+}
+
+
+
+.all {
+    
+}
+
+footer {
+    position: absolute;
+    justify-content;
+    display: flex;
+    width: auto;
+    height: 300px;
+    background-color: #F5EFEF;
+    margin-top: 1276px;
+
+}
+
+.title2 {
+    width: 184px;
+    height: 24px;
+    margin-left: 100px;
+    margin-bottom: 164px;
+
+}
+
+.socials {
+
+    margin-left: 100px;
+
+}
+
+.info-buttons {
+    display: flex;
+    justify-content: space-around;
+    padding: 36px;
+    margin-left: 817px;
+    margin-top: 1329px;
+
+}
+
+.asked {
+    width: 311px;
+    height: 24px;
+    margin-top: 253px;
+    margin-left: 119px;
+    font-weight: 700;
+    font-size: 18px;
+
+
+}
+
+.container-faq {
+    height: 2469px;
+    width: 1038.01513671875px;
+    left: 99.98486328125px;
+    top: 392px;
+    border-radius: nullpx;
+    background-color: antiquewhite;
+    margin-left: 99.98px;
+    margin-right: 302px;
+}
+
+.question1 {
+    margin-top: 392px;
+    margin-left: 99.98px;
+    width: 1038.02px;
+    height: 157px;
+
+
+
+}
+
+.question6 {
+    height: 330px;
+    width: 997.01513671875px;
+    left: 3532.01513671875px;
+    top: 1913px;
+    border-radius: nullpx;
+}
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+li , .nav_links{
+    display: inline-block;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+}
+.logo{
+   
+    cursor: pointer;
+    margin-top: 88px;
+    margin-left: 200px;
+}
+.nav_links{
+    
+    margin-top: 77.08px;
+    padding: 0px, 30px;
+    margin-right: 266.66px;
+    font-size: 20px;
+}
+.headline {
+height: 70px;
+width: 501px;
+margin-left: 355px;
+margin-top: 568px;
+font-size: 31.8915px;
+line-height: 70px;
+ 
+
+}
